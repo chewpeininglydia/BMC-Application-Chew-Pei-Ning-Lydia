@@ -52,6 +52,7 @@ The site is intended to **complement, rather than replace, my formal CV**.
 
 **Chew Pei Ning Lydia**  
 📍 Singapore
+
 🔗 [LinkedIn](https://www.linkedin.com/in/chew-pei-ning-lydia-b86428143)  
 ✉️ [chewpeininglydia@gmail.com](mailto:chewpeininglydia@gmail.com)
 
