@@ -1,10 +1,10 @@
-# 💼 BMC Application — Chew Pei Ning Lydia
+# 💼 BMC Application — Chew Pei Ning Lydia 
 
 A personalised interactive application created for my application to **BMC Software**.
 
 This site was designed and developed to introduce my professional background, technical foundation, customer-facing experience, and motivation for pursuing a career in enterprise technology sales.
 
-## 👋 About Me
+### 👋 About Me
 
 My experience spans technical, operational, and customer-facing environments.
 
