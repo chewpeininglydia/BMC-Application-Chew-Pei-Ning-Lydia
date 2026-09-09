@@ -83,3 +83,7 @@
     .value,.card,.quote-card,.closing{break-inside:avoid}
     @page{size:A4;margin:8mm}
   }
+
+/* Hobbies & Passions */
+.passions-grid .card { min-height: 190px; }
+.passions-grid .icon { font-size: 24px; }
